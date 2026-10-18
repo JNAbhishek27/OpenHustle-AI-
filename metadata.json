@@ -1,0 +1,8 @@
+{
+  "name": "OpenHustle AI - Open-Source Side Hustle & Listing Studio",
+  "description": "An open-weight AI suite for micro-entrepreneurs and freelancers: local-first product listing generation, TabPFN price forecasting, receipt sorting, and marketplace optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
